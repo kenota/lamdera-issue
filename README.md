@@ -28,6 +28,9 @@ Which is incorrect, since it should be `SharedState (Lobby (Set.size m.clients))
 You can see the behaviour in action by checking out this repository, running `lamdera live` and opening `http://localhost:8000` in the browser. 
 
 
+You can also see it on this screenshot:
+
+![Screenshot](https://github.com/kenota/lamdera-issue/raw/master/screenshot.png)
 
 
 Environment: 
